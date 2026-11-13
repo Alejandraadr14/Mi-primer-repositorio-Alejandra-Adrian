@@ -1,5 +1,4 @@
-Datos del cliente
-Nombre,Apellido,correo,Ciudad,telefono
-Alejandra,Adrian,alejandra.adrian@email.com,Guayaquil,0987654321
-Carlos,Moreno,carlos.moreno@email.com,Quito,0991234567
-Maria,Lopez,maria.lopez@email.com,Cuenca,0969876543
+Nombre,Apellido,Correo,Ciudad,Telefono
+Alejandra,Adrian,alejandra.adrian@mail.com,Guayaquil,0987654321
+Carlos,Moreno,carlos.moreno@mail.com,Quito,0991234567
+Maria,Lopez,maria.lopez@mail.com,Cuenca,0959876543
